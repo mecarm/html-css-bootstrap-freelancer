@@ -69,3 +69,25 @@
 .btn_my_style{
     background-color: #1CBC9D !important;
 }
+
+footer{
+    background-color: #2D3F50;
+    color: white;
+}
+
+#footer_cont{
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.circle_social{
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 32px;
+    height: 30px;
+    display: inline-block;
+}
+
+.custom_color{
+    color: #1CBC9D;
+}
