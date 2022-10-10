@@ -91,3 +91,8 @@ footer{
 .custom_color{
     color: #1CBC9D;
 }
+
+#copyright_sect{
+    background-color: #192d3f;
+    color: white;
+}
