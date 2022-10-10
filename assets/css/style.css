@@ -1,3 +1,9 @@
+/* Utility */
+.flex{
+    display: flex;
+}
+
+/* NAVBAR */
 .bg-darkblue{
     background-color: #2D3F50 !important;
 }
@@ -8,4 +14,31 @@
 
 .nav-link{
     color: white;
+}
+
+/* 1a Sezione */
+#start-img{
+    background-color: #1CBC9D;
+    color: white;
+}
+
+.start_img > img{
+    width: 30%;
+}
+
+.star_cont{
+    width: 30%;
+    margin: 0 auto;
+    padding-top: 5px;
+}
+
+.line_star{
+    flex-grow: 1;
+    background-color: white;
+    height: 4px;
+}
+
+.star_inside{
+    font-size: 1.7rem;
+    padding: 0 10px;
 }
