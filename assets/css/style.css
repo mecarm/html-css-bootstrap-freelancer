@@ -47,7 +47,8 @@
     padding: 0 10px;
 }
 
-#portfolio{
+#portfolio,
+#contact_me{
     color: #2D3F50;
 }
 
@@ -58,4 +59,13 @@
 #about_{
     background-color: rgb(28, 188, 157);
     color: white;
+}
+
+.my_container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.btn_my_style{
+    background-color: #1CBC9D !important;
 }
