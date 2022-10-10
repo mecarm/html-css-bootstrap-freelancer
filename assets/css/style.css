@@ -26,19 +26,33 @@
     width: 30%;
 }
 
-.star_cont{
-    width: 30%;
+.star_cont,
+.portfolio_star{
+    width: 40%;
     margin: 0 auto;
     padding-top: 5px;
 }
 
+.star_cont > .line_star{
+    background-color: white;
+}
+
 .line_star{
     flex-grow: 1;
-    background-color: white;
-    height: 4px;
+    height: 3px;
 }
 
 .star_inside{
     font-size: 1.7rem;
     padding: 0 10px;
 }
+
+#portfolio{
+    color: #2D3F50;
+}
+
+.portfolio_star > .line_star{
+    background-color: #2D3F50;
+}
+
+
