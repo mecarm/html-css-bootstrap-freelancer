@@ -1,0 +1,11 @@
+.bg-darkblue{
+    background-color: #2D3F50 !important;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.nav-link{
+    color: white;
+}
